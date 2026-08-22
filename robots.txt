@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-ax901q.paris88btn.cyou/sitemap.xml
